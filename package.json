@@ -1,0 +1,16 @@
+{
+  "name": "nebula-ui-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "An ATOM syntax theme for users - like me - with strabismus that causes pain when exposed to screen light",
+  "keywords": [
+    "syntax",
+    "theme",
+    "dark"
+  ],
+  "repository": "https://github.com/atom/nebula-ui-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
